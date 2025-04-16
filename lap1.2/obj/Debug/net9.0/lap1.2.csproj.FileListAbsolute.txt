@@ -1,0 +1,14 @@
+D:\Back_end\lap1.1\obj\Debug\net9.0\lap1.2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Back_end\lap1.1\obj\Debug\net9.0\lap1.2.AssemblyInfoInputs.cache
+D:\Back_end\lap1.1\obj\Debug\net9.0\lap1.2.AssemblyInfo.cs
+D:\Back_end\lap1.1\obj\Debug\net9.0\lap1.2.csproj.CoreCompileInputs.cache
+D:\Back_end\lap1.1\bin\Debug\net9.0\lap1.2.exe
+D:\Back_end\lap1.1\bin\Debug\net9.0\lap1.2.deps.json
+D:\Back_end\lap1.1\bin\Debug\net9.0\lap1.2.runtimeconfig.json
+D:\Back_end\lap1.1\bin\Debug\net9.0\lap1.2.dll
+D:\Back_end\lap1.1\bin\Debug\net9.0\lap1.2.pdb
+D:\Back_end\lap1.1\obj\Debug\net9.0\lap1.2.dll
+D:\Back_end\lap1.1\obj\Debug\net9.0\refint\lap1.2.dll
+D:\Back_end\lap1.1\obj\Debug\net9.0\lap1.2.pdb
+D:\Back_end\lap1.1\obj\Debug\net9.0\lap1.2.genruntimeconfig.cache
+D:\Back_end\lap1.1\obj\Debug\net9.0\ref\lap1.2.dll
